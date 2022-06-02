@@ -1,2 +1,4 @@
 # Dictionary
-English Dictionary with using javascript
++ English Dictionary with using javascript
++ Inspired by CodingNepal
+
